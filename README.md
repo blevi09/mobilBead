@@ -1,1 +1,1 @@
-# mobilBead
+Boda Levente MobilApplikáció 
